@@ -39,7 +39,7 @@ export default defineUserConfig({
     // 谷歌分析
     googleAnalyticsPlugin({
       // 需要设置自己的 ID
-      id: "G-RWKZTY2P9R",
+      id: "G-1YWHPSM8NP",
     }),
 
     // Algolia 全文搜索：需要自己设置爬虫并生成下方配置，如不会自己设置，启用下方本地搜索
